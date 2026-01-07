@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I wonder",
+  "base_artist": "Da-iCE",
+  "createdAt": "2026-01-07T19:47:22.086503Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "Russell Dickerson",
+      "has_synced": false,
+      "path": "select/01_I_Wonder_Russell_Dickerson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Wonder Do You Think of Me",
+      "artist": "Keith Whitley",
+      "has_synced": true,
+      "path": "select/02_I_Wonder_Do_You_Think_of_Me_Keith_Whitley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Wonder If They Ever Think of Me",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/03_I_Wonder_If_They_Ever_Think_of_Me_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Wonder If They Ever Think Of Me (1972 Version)",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": false,
+      "path": "select/04_I_Wonder_If_They_Ever_Think_Of_Me_(1972_Version)_Merle_Haggard_&_The_Strangers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wonder Why? (He's the Greatest DJ) (MAW vocal mix)",
+      "artist": "Tony Touch",
+      "has_synced": false,
+      "path": "select/05_I_Wonder_Why__(He's_the_Greatest_DJ)_(MAW_vocal_mix)_Tony_Touch.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wonder (Dessau Demo)",
+      "artist": "Codeine",
+      "has_synced": false,
+      "path": "select/06_I_Wonder_(Dessau_Demo)_Codeine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Wonder (Demo)",
+      "artist": "Codeine",
+      "has_synced": false,
+      "path": "select/07_I_Wonder_(Demo)_Codeine.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wonder Why",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/08_I_Wonder_Why_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Wonder Why",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/09_I_Wonder_Why_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "Lasgo",
+      "has_synced": true,
+      "path": "select/10_I_Wonder_Lasgo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "Lasgo",
+      "has_synced": false,
+      "path": "select/11_I_Wonder_Lasgo.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "RS",
+      "has_synced": false,
+      "path": "select/12_I_Wonder_RS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "Blind Melon",
+      "has_synced": true,
+      "path": "select/13_I_Wonder_Blind_Melon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "The Crystals",
+      "has_synced": true,
+      "path": "select/14_I_Wonder_The_Crystals.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Wonder Who We Are",
+      "artist": "The Clientele",
+      "has_synced": true,
+      "path": "select/15_I_Wonder_Who_We_Are_The_Clientele.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Wonder",
+      "artist": "Sharleen Spiteri",
+      "has_synced": true,
+      "path": "select/16_I_Wonder_Sharleen_Spiteri.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How Long Must I Wonder - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/17_How_Long_Must_I_Wonder_-_Remastered_Nina_Simone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I wonder",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/pl_01_I_wonder_Da-iCE.txt"
+    }
+  ]
+}
